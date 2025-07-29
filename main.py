@@ -93,9 +93,8 @@ async def show_loading_bar(message):
 # Initialize the bot
 bot = Client("kingdevil2002bot",
 api_id=29435108,
-api_hash=2d211eb63606dae1bcb413d57391b2de,
+api_hash=2d211eb63606dae1bcb413d57391b2de
 bot_token=8497455749:AAFNjZ_DEUtdpTb1ZqZxsGSR-IKYnCOnL-k)
-
 cookies_file_path = os.getenv("cookies_file_path", "youtube_cookies.txt")
 api_url = "http://master-api-v3.vercel.app/"
 api_token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNzkxOTMzNDE5NSIsInRnX3VzZXJuYW1lIjoi4p61IFtvZmZsaW5lXSIsImlhdCI6MTczODY5MjA3N30.SXzZ1MZcvMp5sGESj0hBKSghhxJ3k1GTWoBUbivUe1I"
