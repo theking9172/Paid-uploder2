@@ -4,8 +4,8 @@ from pyrogram.enums import ChatMemberStatus
 from vars import SUDO_USERS, ADMIN_USERS
 
 # Channel details
-CHANNEL_ID = -1002560767555  # Replace this with your actual channel ID from @getidsbot
-CHANNEL_LINK = "https://t.me/+2uO7pFGrYNVkZWNl"  # Keep this for the join button
+CHANNEL_ID = -1002783273612  # Replace this with your actual channel ID from @kingdevil2002bot
+CHANNEL_LINK = "https://t.me/+zEGz9Wqh4kA0Nzc1"  # Keep this for the join button
 FORCE_SUB_PHOTO = "https://files.catbox.moe/i2m700"
 
 __all__ = ['force_sub', 'force_subscribe_prompt']
