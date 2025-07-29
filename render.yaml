@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: SAINI TXT DIRECT 
+    name: The king 
     plan: free
     env: docker
     dockerfilePath: Dockerfile
@@ -8,11 +8,11 @@ services:
     branch: main
     autoDeploy: false
     envVars:
-      - key: BOT_TOKEN
+      - key: 8497455749:AAFNjZ_DEUtdpTb1ZqZxsGSR-IKYnCOnL-k
         sync: false
-      - key: API_ID
+      - key: 29435108
         sync: false
-      - key: API_HASH
+      - key: 2d211eb63606dae1bcb413d57391b2de
         sync: false
       #- key: WEBHOOK
         #sync: false
