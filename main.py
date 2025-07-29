@@ -93,8 +93,8 @@ async def show_loading_bar(message):
 # Initialize the bot
 bot = Client(
     "bot",
-    api_id=API_ID,
-    api_hash=API_HASH,
+    api_id=29435108,
+    api_hash=2d211eb63606dae1bcb413d57391b2de,
     bot_token=BOT_TOKEN
 )
 
