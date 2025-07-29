@@ -1,0 +1,5 @@
+{
+    "sudo_users": [],
+    "premium_users": [],
+    "instructions": "Add your Telegram User ID to 'sudo_users' to become an admin. Add user IDs to 'premium_users' to grant access."
+}
