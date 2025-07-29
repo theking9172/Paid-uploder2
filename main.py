@@ -95,8 +95,7 @@ bot = Client(
     "bot",
     api_id=29435108,
     api_hash=2d211eb63606dae1bcb413d57391b2de,
-    bot_token=BOT_TOKEN
-)
+    bot_token=8497455749:AAFNjZ_DEUtdpTb1ZqZxsGSR-IKYnCOnL-k)
 
 cookies_file_path = os.getenv("cookies_file_path", "youtube_cookies.txt")
 api_url = "http://master-api-v3.vercel.app/"
